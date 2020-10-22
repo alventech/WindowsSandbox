@@ -2,7 +2,7 @@
 Configuration Files for Windows Sandbox
 Documentation - https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-configure-using-wsb-file
 
-## w10-Sandbox-MemoryInMB 
+## w10-Sandbox-MemoryInMB.wsb
 Sets windows 10 Memory to 8 GB
 Memory in MB: Specifies the amount of memory that the sandbox can use in megabytes (MB).
 <MemoryInMB>value</MemoryInMB>
