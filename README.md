@@ -2,7 +2,7 @@
 Configuration Files for Windows Sandbox
 Documentation - https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-configure-using-wsb-file
 
-## w10-Sandbox-MemoryInMB.wsb
+## w10-Sandbox-8GB.wsb
 Windows Sandbox VM to 8 GB memory
 
 Memory in MB: Specifies the amount of memory that the sandbox can use in megabytes (MB).
